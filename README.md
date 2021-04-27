@@ -14,17 +14,17 @@ you may need to remove that data source, and redownload the access file from thi
 
 </div><br>
 <h3>Pictures of the project</h3>
-<div style="alignment:inline-flex;">
+<div style="alignment:inline-flex;"><br>
 <img src="https://i.imgur.com/RwBVk1y.png" alt ="main menu"></img>
-<br>
+<br><br>
 <img src="https://i.imgur.com/RhjV17L.png" alt="roster select"></img>
-<br>
+<br><br>
 <img src="https://i.imgur.com/JTOIvEg.png" alt="roster select"></img>
-<br>
+<br><br>
 <img src="https://i.imgur.com/R0f8peV.png" alt="roster select"></img>
-<br>
+<br><br>
 <img src="https://i.imgur.com/knryHcA.png" alt="roster select"></img>
-<br>
+<br><br>
 
 </div>
 
