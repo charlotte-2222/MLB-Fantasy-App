@@ -174,20 +174,20 @@ Partial Class FrmMenu
         '
         'txtName
         '
-        Me.txtName.Font = New System.Drawing.Font("Segoe UI", 9.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtName.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtName.Location = New System.Drawing.Point(205, 408)
         Me.txtName.MaxLength = 20
         Me.txtName.Name = "txtName"
-        Me.txtName.Size = New System.Drawing.Size(128, 24)
+        Me.txtName.Size = New System.Drawing.Size(128, 25)
         Me.txtName.TabIndex = 19
         '
         'txtTeamName
         '
-        Me.txtTeamName.Font = New System.Drawing.Font("Segoe UI", 9.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtTeamName.Font = New System.Drawing.Font("Segoe UI", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtTeamName.Location = New System.Drawing.Point(304, 453)
         Me.txtTeamName.MaxLength = 20
         Me.txtTeamName.Name = "txtTeamName"
-        Me.txtTeamName.Size = New System.Drawing.Size(184, 24)
+        Me.txtTeamName.Size = New System.Drawing.Size(184, 25)
         Me.txtTeamName.TabIndex = 21
         '
         'Label3

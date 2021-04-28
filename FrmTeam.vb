@@ -1,4 +1,10 @@
-﻿Public Class FrmTeam
+﻿'Zachary Childers CPT-206-A01S
+'Final Project 
+'MLB-Roster-Creator
+'864-680-4022
+
+
+Public Class FrmTeam
 
     Private Sub FrmTeam_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim shit = FrmMain.lstFantasy.Items

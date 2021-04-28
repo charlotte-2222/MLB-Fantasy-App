@@ -2,6 +2,11 @@
 Imports System.Net
 Imports System.Text.RegularExpressions
 
+'Zachary Childers CPT-206-A01S
+'Final Project 
+'MLB-Roster-Creator
+'864-680-4022
+
 Public Class FrmMain
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load

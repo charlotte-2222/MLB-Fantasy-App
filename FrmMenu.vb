@@ -4,6 +4,11 @@ Imports System.IO
 Imports System.Text.RegularExpressions
 Imports System.Net.Mail
 
+'Zachary Childers CPT-206-A01S
+'Final Project 
+'MLB-Roster-Creator
+'864-680-4022
+
 Public Class FrmMenu
     Private Sub btnYourTeam_Click(sender As Object, e As EventArgs) Handles btnYourTeam.Click
         If Not FrmMain.WindowState = 0 Then
@@ -85,9 +90,4 @@ Public Class FrmMenu
                             MessageBoxIcon.Error)
         End Try
     End Sub
-
-
-
-
-
 End Class
